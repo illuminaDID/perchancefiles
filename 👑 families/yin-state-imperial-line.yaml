@@ -1,0 +1,49 @@
+family: House of Xin
+state: Xin State
+princes:
+  - name: Yin Kun
+    order: 1
+    stationed_in: Mo State
+    spouse: Jiang Yue
+    children: [Princess Ping'an]
+    notes: Eldest prince.
+  - name: Yin Song
+    order: 2
+    role: Heir; Supervisor of Household Registration
+    mother: Madame Chuan
+    spouse_main: Zhao Fangru
+    spouse_concubine: Hao Jia
+  - name: Yin An
+    order: 3
+    spouse_main: Dong Haitang
+    notes: Married before the selection.
+  - name: Yin Jun
+    order: 4
+    role: Supervisor of Rites
+    spouse_main: An Xiyuan
+  - name: Yin Qi
+    order: 5
+    mother: Madame Chun
+    spouse_main: Shangguan Jing
+  - name: Yin Zheng
+    order: 6
+    mother: Madame He
+    spouse_partner: Li Wei   # Ji State
+    spouse_main: Yuan Ying   # Princess of Jin State
+  - name: Yin Yan
+    order: 7
+    spouse_main: Ruan Sisi   # Ying State
+  - name: (deceased infant)
+    order: 8
+    notes: Died in infancy.
+  - name: Yin Han
+    order: 9
+    notes: Unmarried in-show; studious.
+  - name: Yin Yue
+    order: 10
+    mother: Madame Chuan
+    notes: Unmarried in-show; social.
+  - name: Yin Zai
+    order: 11
+    mother: Madame He
+    notes: Unmarried in-show; much younger.
