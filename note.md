@@ -42,3 +42,9 @@ Shenli let a small sigh of relief escape her as she drew in a breath she hadn't 
 A gentle hand on her arm indicated Xinyue now stood beside her, and she followed the gentle pressure of his hand on her arm guiding her West. The presence of the Prince lingered even as Xinyue and Shenli passed him towards the wisteria draped gate. 
 
 When Xinyue and Shenli reached the gate, Shenli turned to face the bodyguard fully. The rules did not forbid her to look at him, so she could pass on her message facing him. "Xinyue, please thank your Your Lord for me again, and pass on my apologies once more."
+
+
+
+
+
+## Notes

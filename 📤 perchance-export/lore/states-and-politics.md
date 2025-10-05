@@ -1,8 +1,10 @@
 # **The Seven Warring States** 
-1.  Yin  State is the Ruling State and is Patriarchal. 
-2.  Wu State is the Trade State and is Matriarchal. 
-3.  Dan State is the River State and is Matriarchal. 
-4.  Jin State is the Silver State and is Patriarchal. 
-5.  Mo State is the Northern Territory State and is Patriarchal. 
-6.  Yan State is the Textile State and is Egalitarian. 
-7.  Dai State is the Farming State and is Egalitarian.
+The Yin Empire is surrounded by six powerful states, each with its own cultural structure and political influence. These states shape both the wife selection process and the broader court politics.  
+
+1. **Yin State** – Ruling State; Patriarchal. Seat of imperial power and palace politics.  
+2. **Wu State** – Trade State; Matriarchal. Controls commerce and foreign goods.  
+3. **Dan State** – River State; Matriarchal. Strategic control of waterways and shipping routes.  
+4. **Jin State** – Silver State; Patriarchal. Wealthy from mining and trade of precious metals.  
+5. **Mo State** – Northern Territory State; Patriarchal. Militarized and resource-rich frontier.  
+6. **Yan State** – Textile State; Egalitarian. Known for luxury goods, fabrics, and artisans.  
+7. **Dai State** – Farming State; Egalitarian. Breadbasket region, crucial for food supply and agriculture.

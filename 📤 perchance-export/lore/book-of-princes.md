@@ -1,5 +1,5 @@
-# **Book Of Princes**
- - Prior to the Wife Selection, the Princes who are part of the selection submit portraits to the Book of Princes, along with any information they want potential wives to know. 
- -  Zheng is the only Prince to purposefully not submit a portrait. 
- -  Song, Ang, Jun, Qi, and Yan all submitted portraits and little tidbits of information. 
- -  Zheng is only visible due to being in the background of Song's portrait.
+# **Book of Princes**
+The *Book of Princes* is presented to candidates before the selection ceremony. It contains portraits and personal notes from each eligible prince, intended to help noble families and candidates make informed strategic choices.  
+
+- **Yin Zheng:** The only prince who intentionally refused to submit a portrait. His image only appears in the background of Song’s submission.  
+- **Song, Ang, Jun, Qi, Yan:** All submitted official portraits and brief personal statements highlighting their strengths or family alliances.  
