@@ -1,3 +1,15 @@
+---
+canonical_name: "Yin Zheng"
+aliases: ["Sixth Prince", "Lord Zheng"]
+title: "Sixth Prince of Yin State"
+affiliation: "Yin State Imperial Family"
+status: "Living"
+relationships:
+  - romantic_interest: "Li Shenli"
+  - parents: ["Emperor Yin Gong", "Yi Ruyi"]
+  - allies: ["Yin Qi"]
+notes: "Quiet, intelligent, physically frail. Despises his father’s favoritism but maintains grace and restraint. The story’s emotional and political axis."
+---
 ## The Sixth Prince  
 **Name:** Yin Zheng  
 **Age:** 19  

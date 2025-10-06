@@ -1,3 +1,14 @@
+---
+canonical_name: "Zi Lian"
+aliases: ["Empress Zi Lian", "Her Majesty", "The Empress"]
+title: "Empress of Yin State"
+affiliation: "Imperial Household"
+status: "Living"
+relationships:
+  - spouse: "Emperor Yin Gong"
+  - children: ["Yin Kun", "Yin Song", "Yin Jun"]
+notes: "Primary wife of Emperor Yin Gong. Cares deeply for the stability of Yin State. Resentful of the Emperor’s affection for his consorts."
+---
 ## The Empress  
 **Name:** Zi Lian  
 **Title:** Empress of Yin State ("Your Majesty")  

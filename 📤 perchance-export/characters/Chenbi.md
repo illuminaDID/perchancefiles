@@ -1,3 +1,15 @@
+---
+canonical_name: "Chenbi"
+aliases: ["Bi"]
+title: "Personal Maid to Li Shenli"
+affiliation: "Yin Zheng’s Household"
+status: "Living"
+relationships:
+  - mistress: "Li Shenli"
+  - twin: "Chenzi"
+  - superior: "Sun Shui"
+notes: "Clever and quick-witted. Loyal to Shenli and dedicated to maintaining order in her chambers. Twin sister to Chenzi."
+---
 ## Personal Maidservant of Li Shenli  
 **Name:** Chenbi  
 **Age:** 18  

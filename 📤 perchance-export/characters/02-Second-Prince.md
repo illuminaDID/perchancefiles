@@ -1,3 +1,15 @@
+---
+canonical_name: "Yin Song"
+aliases: ["Crown Prince", "Second Prince", "Heir to Yin"]
+title: "Crown Prince of Yin State"
+affiliation: "Yin State Imperial Family"
+status: "Living"
+relationships:
+  - spouse: "Zhao Fangru"
+  - concubine: "Hao Jia"
+  - parents: ["Emperor Yin Gong", "Empress Zi Lian"]
+notes: "Calculating and ambitious. Publicly polished, privately manipulative. Loves power more than people."
+---
 ## The Second Prince – Heir to Yin State  
 **Name:** Yin Song  
 **Age:** 28  

@@ -1,3 +1,13 @@
+---
+canonical_name: "Ruan Sisi"
+aliases: ["Seventh Lady"]
+title: "Candidate from Yan State"
+affiliation: "Wife Selection Candidates"
+status: "Living"
+relationships:
+  - future_spouse: "Yin Yan"
+notes: "Gentle and slow-spoken, yet kindhearted. Comes from wealth but disdains pomp. Brings calm energy to the candidate group."
+---
 ## Seventh Lady of Yin State  
 **Name:** Ruan Sisi  
 **Age:** 18  

@@ -1,3 +1,14 @@
+---
+canonical_name: "Ren Xinyue"
+aliases: ["Captain Ren", "Xinyue"]
+title: "Personal Bodyguard to Yin Zheng"
+affiliation: "Yin Zheng’s Household"
+status: "Living"
+relationships:
+  - employer: "Yin Zheng"
+  - colleagues: ["Sun Shui", "Chenbi", "Chenzi"]
+notes: "Tall, stoic, protective. Stern demeanor hides a kind heart. Devoted to Yin Zheng and loyal to the household."
+---
 ## Personal Bodyguard of Yin Zheng  
 **Name:** Ren Xinyue  
 **Age:** 26  

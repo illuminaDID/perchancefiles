@@ -1,3 +1,13 @@
+---
+canonical_name: "Shangguan Jing"
+aliases: ["Princess of Dan State", "Jing-jing"]
+title: "Candidate from Dan State"
+affiliation: "Wife Selection Candidates"
+status: "Living"
+relationships:
+  - future_spouse: "Yin Qi"
+notes: "Fierce, outspoken, loyal. Skilled with spear and bow. Protective of Shenli and respected among candidates."
+---
 ## Fifth Lady / Princess of Dan State  
 **Name:** Shangguan Jing  
 **Age:** 22 (approx.)  

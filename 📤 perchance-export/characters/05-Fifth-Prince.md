@@ -1,3 +1,14 @@
+---
+canonical_name: "Yin Qi"
+aliases: ["Fifth Prince"]
+title: "Fifth Young Lord of Yin State"
+affiliation: "Yin State Imperial Family"
+status: "Living"
+relationships:
+  - spouse: "Shangguan Jing"
+  - parents: ["Emperor Yin Gong", "Yi Ruyi"]
+notes: "Flirtatious, good-hearted, loyal to his younger brother Yin Zheng. More clever than he lets on, but hopelessly awkward in love."
+---
 ## The Fifth Prince  
 **Name:** Yin Qi  
 **Age:** 20  

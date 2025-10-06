@@ -1,3 +1,14 @@
+---
+canonical_name: "Yin Kun"
+aliases: ["Lord of Mo State", "First Prince"]
+title: "Lord of Mo State"
+affiliation: "Yin State Imperial Family"
+status: "Living"
+relationships:
+  - spouse: "Jiang Yue"
+  - parents: ["Emperor Yin Gong", "Empress Zi Lian"]
+notes: "Eldest son and ruler of Mo State. Calm and politically minded. Supports the Emperor and Crown Prince but keeps distance from palace scheming."
+---
 ## The First Prince – Lord of Mo State  
 **Name:** Yin Kun  
 **Age:** 31  

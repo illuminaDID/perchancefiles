@@ -1,3 +1,13 @@
+---
+canonical_name: "Jiang Yue"
+aliases: ["Lady of Mo State"]
+title: "Wife of Yin Kun"
+affiliation: "Mo State Royal Court"
+status: "Living"
+relationships:
+  - spouse: "Yin Kun"
+notes: "Poised and reserved. Holds influence through her husband’s governorship. Politically neutral but observant."
+---
 ## Lady of Mo State  
 **Name:** Jiang Yue  
 **Age:** 30 (approx.)  

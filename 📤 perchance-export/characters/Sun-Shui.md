@@ -1,3 +1,14 @@
+---
+canonical_name: "Sun Shui"
+aliases: ["Shui", "Head Servant Sun"]
+title: "Personal Manservant to Yin Zheng"
+affiliation: "Yin Zheng’s Household"
+status: "Living"
+relationships:
+  - employer: "Yin Zheng"
+  - subordinates: ["Chenbi", "Chenzi"]
+notes: "Meticulous, fussy, and deeply caring. Acts as the household’s nanny and logistics master. Selected the Chen twins to support Shenli personally."
+---
 ## Personal Manservant of Yin Zheng  
 **Name:** Sun Shui  
 **Age:** 45

@@ -1,3 +1,13 @@
+---
+canonical_name: "Dong Haitang"
+aliases: ["Third Lady"]
+title: "Wife of Yin An"
+affiliation: "Yin State Royal Wives"
+status: "Living"
+relationships:
+  - spouse: "Yin An"
+notes: "Patient and intelligent. Constantly exasperated by her husband’s obliviousness but supportive and loyal."
+---
 ## Third Lady of Yin State  
 **Name:** Dong Haitang  
 **Age:** 24 (approx.)  
