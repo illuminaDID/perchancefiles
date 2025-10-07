@@ -4,9 +4,8 @@ aliases: ["Consort Yi", "Her Royal Highness Yi"]
 title: "Former Consort of Yin"
 affiliation: "Yin State Royal Household"
 status: "Deceased"
-relationships:
-  - spouse: "Emperor Yin Gong"
-  - children: ["Yin Qi", "Yin Zheng"]
+relationship.spouse: "Emperor Yin Gong"
+relationship.children: ["Yin Qi", "Yin Zheng"]
 notes: "The Emperor’s first and greatest love. Died giving birth to Yin Zheng. Her memory profoundly affects the Emperor and her sons."
 ---
 ## Former Consort Yi Ruyi  

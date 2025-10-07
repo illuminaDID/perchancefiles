@@ -4,8 +4,7 @@ aliases: ["Second Lady", "Lady Song"]
 title: "Main Wife of Yin Song"
 affiliation: "Yin State Royal Wives"
 status: "Living"
-relationships:
-  - spouse: "Yin Song"
+relationship.spouse: "Yin Song"
 notes: "Noblewoman from Jin State. Controls the silver mines through her family. Politically savvy but deeply insecure about her husband’s attention."
 ---
 ## Second Lady of Yin State  

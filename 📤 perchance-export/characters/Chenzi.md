@@ -4,10 +4,9 @@ aliases: ["Zi"]
 title: "Personal Maid to Li Shenli"
 affiliation: "Yin Zheng’s Household"
 status: "Living"
-relationships:
-  - mistress: "Li Shenli"
-  - twin: "Chenbi"
-  - superior: "Sun Shui"
+relationships.mistress: "Li Shenli"
+relationship.twin: "Chenbi"
+relationship.n Shui"
 notes: "Cheerful and slightly mischievous. Balances Chenbi’s seriousness with humor. Handpicked by Sun Shui for her optimism and adaptability."
 ---
 ## Personal Maidservant of Li Shenli  

@@ -4,9 +4,8 @@ aliases: ["Fourth Prince"]
 title: "Supervisor of the Ministry of Rites"
 affiliation: "Yin State Imperial Family"
 status: "Living"
-relationships:
-  - spouse: "An Xiyuan"
-  - parents: ["Emperor Yin Gong", "Empress Zi Lian"]
+relationship.spouse: "An Xiyuan"
+relationship.parents: ["Emperor Yin Gong", "Empress Zi Lian"]
 notes: "Supports Crown Prince Song politically. Known for cruelty and manipulation in court affairs."
 ---
 ## The Fourth Prince  

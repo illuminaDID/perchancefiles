@@ -4,10 +4,9 @@ aliases: ["Sixth Prince", "Lord Zheng"]
 title: "Sixth Prince of Yin State"
 affiliation: "Yin State Imperial Family"
 status: "Living"
-relationships:
-  - romantic_interest: "Li Shenli"
-  - parents: ["Emperor Yin Gong", "Yi Ruyi"]
-  - allies: ["Yin Qi"]
+relationship.romantic_interest: "Li Shenli"
+relationship.parents: ["Emperor Yin Gong", "Yi Ruyi"]
+relationship.allies: ["Yin Qi"]
 notes: "Quiet, intelligent, physically frail. Despises his father’s favoritism but maintains grace and restraint. The story’s emotional and political axis."
 ---
 ## The Sixth Prince  

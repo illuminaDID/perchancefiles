@@ -4,8 +4,7 @@ aliases: ["Fourth Lady"]
 title: "Wife of Yin Jun"
 affiliation: "Yin State Royal Wives"
 status: "Living"
-relationships:
-  - spouse: "Yin Jun"
+relationship.spouse: "Yin Jun"
 notes: "Quietly ambitious but overshadowed by her husband’s reputation. Keeps her dignity and composure in court."
 ---
 ## Fourth Lady of Yin State  

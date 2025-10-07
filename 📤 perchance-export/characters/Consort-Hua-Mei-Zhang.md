@@ -4,9 +4,8 @@ aliases: ["Consort Hua", "Her Highness Hua"]
 title: "Imperial Consort"
 affiliation: "Yin State Royal Household"
 status: "Living"
-relationships:
-  - spouse: "Emperor Yin Gong"
-  - children: ["Yin Yan (biological)", "Yin An (adopted)"]
+relationship.spouse: "Emperor Yin Gong"
+relationship.children: ["Yin Yan (biological)", "Yin An (adopted)"]
 notes: "Gentle and kind-hearted. Shares genuine affection with the Emperor and is beloved by their sons. Often the palace’s voice of warmth and reason."
 ---
 ## Consort Hua Mei Zhang  

@@ -4,9 +4,8 @@ aliases: ["Shenli", "Li-li"]
 title: "Candidate from Dai State"
 affiliation: "Wife Selection Candidates"
 status: "Living"
-relationships:
-  - romantic_interest: "Yin Zheng"
-  - companions: ["Shangguan Jing", "Ruan Sisi"]
+relationship.romantic_interest: "Yin Zheng"
+relationship.companions: ["Shangguan Jing", "Ruan Sisi", "Hao Jia"]
 notes: "Kind-hearted and empathetic. Sent to the selection to dispel ill fortune tied to her unusual green eyes. Possesses life energy abilities."
 ---
 ## Selection Candidate of Yin State  

@@ -4,8 +4,7 @@ aliases: ["Second Young Mistress"]
 title: "Candidate from Yan State"
 affiliation: "Wife Selection Candidates"
 status: "Living"
-relationships:
-  - intended_spouse: "Yin Song"
+relationships.intended_spouse: "Yin Song"
 notes: "Strategic and composed. Sees marriage as contract and opportunity. Warm toward Shenli, quietly rivals Shangguan Jing."
 ---
 ## Second Young Mistress of Yin State  
